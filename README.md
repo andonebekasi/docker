@@ -1,6 +1,6 @@
 # docker
 
-andonebekasi/webasik
+
 
 https://hub.docker.com/u/andonebekasi
 
@@ -28,7 +28,7 @@ k8s
 ============
 
 
-kubectl create deployment nginx --image=nginx
+kubectl create deployment tahubaso --image=andonebekasi/webasik
 
 kubectl get deployments
 

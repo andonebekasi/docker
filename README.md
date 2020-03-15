@@ -28,7 +28,21 @@ kubectl describe deployment nginx
 
 
 
+
+# Describe commands with verbose output
+
+kubectl describe nodes my-node
+
+kubectl describe pods my-pod
+
+
+
+
+==============================================
+
+
 Exposing Your Nginx Service to Public Network
+
 =============================================
 
 kubectl create service nodeport nginx --tcp=80:80

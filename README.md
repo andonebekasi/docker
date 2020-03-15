@@ -4,6 +4,14 @@ andonebekasi/webasik
 
 https://hub.docker.com/u/andonebekasi
 
+==================
+
+
+docker build -t andonebekasi/tahubaso .
+
+docker run -d --name asikasik -p 80:80 andonebekasi/tahubaso
+
+
 
 
 

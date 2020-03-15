@@ -25,3 +25,13 @@ kubectl create service nodeport nginx --tcp=80:80
 kubectl get svc
 
 
+
+ Clean Up
+==============
+
+
+$ kubectl delete deployment my-app
+
+$ kubectl delete svc my-app
+
+

@@ -68,3 +68,40 @@ $ kubectl delete deployment my-app
 $ kubectl delete svc my-app
 
 
+
+
+url
+
+========================
+
+
+https://www.tecmint.com/deploy-nginx-on-a-kubernetes-cluster/
+
+
+https://kubernetes.github.io/ingress-nginx/deploy/baremetal/
+
+
+https://github.com/kubernetes/ingress-nginx/blob/master/docs/troubleshooting.md
+
+
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
+
+https://codeburst.io/getting-started-with-kubernetes-deploy-a-docker-container-with-kubernetes-in-5-minutes-eb4be0e96370
+
+
+
+https://www.tecmint.com/install-apache-web-server-in-a-docker-container/
+
+
+
+https://knative.dev/v0.10-docs/serving/samples/hello-world/helloworld-php/
+
+
+
+
+https://codingbee.net/tutorials/kubernetes/hello-world-pods
+
+
+
+

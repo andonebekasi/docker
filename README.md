@@ -104,4 +104,20 @@ https://codingbee.net/tutorials/kubernetes/hello-world-pods
 
 
 
+===================================================================
+===================================================================
+
+k8s metallb
+
+kubectl apply -f https://raw.githubusercontent.com/google/metallb/v0.8.1/manifests/metallb.yaml
+
+
+
+https://www.definit.co.uk/2019/08/lab-guide-kubernetes-load-balancer-and-ingress-with-metallb-and-contour/
+
+
+https://blog.inkubate.io/install-and-configure-metallb-as-a-load-balancer-for-kubernetes/
+
+
+
 

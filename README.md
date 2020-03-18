@@ -120,4 +120,23 @@ https://blog.inkubate.io/install-and-configure-metallb-as-a-load-balancer-for-ku
 
 
 
+============================================================================================================================
+
+
+
+kubernetes-dashboard
+
+
+https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/
+
+
+https://kubernetes.io/docs/tasks/access-application-cluster/port-forward-access-application-cluster/
+
+
+
+https://phoenixnap.com/kb/kubectl-port-forward
+
+
+https://www.edureka.co/community/31282/is-accessing-kubernetes-dashboard-remotely-possible
+
 

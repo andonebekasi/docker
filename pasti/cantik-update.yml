@@ -23,7 +23,7 @@ kind: Service
 metadata:
   name: cantik
 spec:
-  type: LoadBalancer
+  type: NodePort
   selector:
     app: cantik
   ports:

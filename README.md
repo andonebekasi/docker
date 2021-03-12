@@ -119,8 +119,12 @@ https://www.definit.co.uk/2019/08/lab-guide-kubernetes-load-balancer-and-ingress
 https://blog.inkubate.io/install-and-configure-metallb-as-a-load-balancer-for-kubernetes/
 
 ============================================================================================================================
+
+
 fix -- tested gcp gke
-=====
+=====================
+
+
 kubectl create deployment canda-app --image=andonebekasi/webasik
 
 

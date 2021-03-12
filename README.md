@@ -194,5 +194,10 @@ https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app
 
 
 
+https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/
+
+
+
+
 
 

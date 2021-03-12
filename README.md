@@ -181,6 +181,18 @@ https://unofficial-kubernetes.readthedocs.io/en/latest/tutorials/stateless-appli
 
 
 
+===================================================================================================================================================
+
+
+
+
+gcloud components install kubectl
+
+add komponet di gcp
+
+https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app
+
+
 
 
 

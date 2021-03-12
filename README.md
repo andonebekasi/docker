@@ -136,6 +136,15 @@ https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app
 https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/ ====contoh 
 
 
+
+https://kubernetes.io/docs/tasks/debug-application-cluster/get-shell-running-container/ --> akses shell pod
+
+
+kubectl exec -i -t my-pod --container main-app -- /bin/bash
+
+
+
+
 ============================================================================================================================
 
 

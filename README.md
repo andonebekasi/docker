@@ -1,6 +1,8 @@
 # docker
 
 
+cantik-ok.yml  ->>>>> utk GKE
+
 
 https://hub.docker.com/u/andonebekasi
 

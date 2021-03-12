@@ -18,4 +18,4 @@ spec:
       - image: andonebekasi/webasik:latest
         name: cantik
         ports:
-        - containerPort: 8080
+        - containerPort: 80

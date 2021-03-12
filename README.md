@@ -3,6 +3,8 @@
 
 cantik-ok.yml  ->>>>> utk GKE
 
+https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/  ->> expose dan cantik-ok.yml
+
 
 https://hub.docker.com/u/andonebekasi
 

@@ -174,6 +174,11 @@ https://kubernetes.io/docs/tasks/access-application-cluster/service-access-appli
 https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/
 
 
+https://unofficial-kubernetes.readthedocs.io/en/latest/tutorials/stateless-application/expose-external-ip-address/
+
+
+
+
 
 
 

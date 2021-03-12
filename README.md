@@ -164,4 +164,18 @@ https://phoenixnap.com/kb/kubectl-port-forward
 
 https://www.edureka.co/community/31282/is-accessing-kubernetes-dashboard-remotely-possible
 
+===========================================================================================================================
+
+
+
+https://kubernetes.io/docs/tasks/access-application-cluster/service-access-application-cluster/
+
+
+https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/
+
+
+
+
+
+
 

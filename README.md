@@ -118,6 +118,14 @@ https://www.definit.co.uk/2019/08/lab-guide-kubernetes-load-balancer-and-ingress
 
 https://blog.inkubate.io/install-and-configure-metallb-as-a-load-balancer-for-kubernetes/
 
+============================================================================================================================
+fix -- tested gcp gke
+=====
+kubectl create deployment canda-app --image=andonebekasi/webasik
+kubectl expose deployment canda-app --name=canda-app-service --type=LoadBalancer --port 8080 --target-port 80
+https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app
+
+https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/ ====contoh 
 
 
 ============================================================================================================================
